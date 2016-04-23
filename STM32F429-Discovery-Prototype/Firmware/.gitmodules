@@ -1,0 +1,3 @@
+[submodule "3rdparty/ugfx"]
+	path = 3rdparty/ugfx
+	url = https://Tectu@bitbucket.org/Tectu/ugfx.git

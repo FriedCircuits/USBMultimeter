@@ -7,6 +7,8 @@ This is a add-on board that can be press-fit to the bottom of the STM32F429 Disc
 to allow firmware development till I can design the prototype hardware. 
 
 
+More information at
+[https://hackaday.io/friedcircuits](https://hackaday.io/friedcircuits)
 
 
 License: All source code and designs are released under 

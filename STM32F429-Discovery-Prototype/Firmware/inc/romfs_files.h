@@ -1,0 +1,7 @@
+#include "inc/rsc/FCTextLogo.h"
+#include "inc/rsc/DBlue_btn_g.h"
+#include "inc/rsc/DBlue_btn_c.h"
+#include "inc/rsc/menualt.h"
+#include "inc/rsc/DBlue_btn_s.h"
+#include "inc/rsc/USB blue.h"
+#include "inc/rsc/micro_sd.h"
