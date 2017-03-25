@@ -1,0 +1,28 @@
+# FriedCircuits USB Multimeter
+zero.name=FriedCircuits USB Multimeter
+zero.vid.0=0x1D50
+zero.pid.0=0x6112
+zero.bootloader.tool=openocd
+zero.bootloader.file=usbmm-boot.bin
+zero.bootloader.size=0x4000
+zero.bootloader.NVMCTRL_BOOTPROT=0x07
+zero.upload.tool=bossac
+zero.upload.protocol=sam-ba
+zero.upload.maximum_size=262144
+zero.upload.use_1200bps_touch=true
+zero.upload.wait_for_upload_port=true
+zero.upload.native_usb=true
+zero.build.mcu=cortex-m0plus
+zero.build.f_cpu=48000000L
+zero.build.board=SAMD_ZERO
+zero.build.variant=usbmm
+zero.build.core=arduino:arduino
+zero.build.extra_flags=-D__SAMD21G18A__ {build.usb_flags}
+zero.build.ldscript=linker_scripts/gcc/flash_with_bootloader.ld
+zero.build.openocdscript=openocd_scripts/arduino_zero.cfg
+zero.build.vid=0x1D50
+zero.build.pid=0x6112
+zero.build.usb_product="USB Multimeter"
+zero.build.usb_manufacturer="FriedCircuits"
+
+

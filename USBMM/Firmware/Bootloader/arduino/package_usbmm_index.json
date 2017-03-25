@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "usbmm",
+      "maintainer": "FriedCircuits",
+      "websiteURL": "https://friedcircuits.us",
+      "email": "",
+      "help": {"online": "https://learn.friedcircuits.us"},
+
+      "platforms": [
+        {
+          "name": "USB Multimeter",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "contributed",
+          "help": {"online": "https://learn.friedcircuits.us"},
+          "url": "https://github.com/friedcircuits/usbmm/",
+          "archiveFileName": "usbmm-1.0.0.zip",
+          "size": "107370",
+          "boards": [
+            {"name": "USB Multimeter"},
+          ]
+        }
+      ],
+
+      "tools": [
+      ]
+    }
+  ]
+}
