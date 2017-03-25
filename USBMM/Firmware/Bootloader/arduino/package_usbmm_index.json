@@ -14,7 +14,7 @@
           "version": "1.0.0",
           "category": "contributed",
           "help": {"online": "https://learn.friedcircuits.us"},
-          "url": "https://github.com/friedcircuits/usbmm/",
+          "url": "https://github.com/FriedCircuits/USBMultimeter/raw/bb484d628c6433d4d44a4b20f171d8032f421e12/USBMM/Firmware/Bootloader/arduino/usbmm.zip",
           "archiveFileName": "usbmm-1.0.0.zip",
           "size": "107370",
           "boards": [

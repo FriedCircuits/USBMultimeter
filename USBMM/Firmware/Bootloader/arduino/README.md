@@ -12,7 +12,7 @@ Board Support Package for [Arduino IDE v1.6+](https://www.arduino.cc/en/Main/Sof
 
 Add the following URL to the Arduino Boards Manager (*File->Preferences*):
 ```
-https://github.com/watterott/SAM-BAR/raw/master/software/arduino/package_sambar_index.json
+https://github.com/FriedCircuits/USBMultimeter/raw/master/USBMM/Firmware/Bootloader/arduino/package_usbmm_index.json
 ```
 Then open the Arduino Boards Manager (*Tools->Boards->Boards Manager*) and install the 
 **Arduino SAMD Boards** and **SAMD (ARM Cortex-M0+) Boards with SAM-BAR**.
