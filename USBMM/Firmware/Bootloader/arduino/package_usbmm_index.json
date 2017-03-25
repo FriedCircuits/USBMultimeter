@@ -18,7 +18,7 @@
           "archiveFileName": "usbmm-1.0.0.zip",
           "size": "107370",
           "boards": [
-            {"name": "USB Multimeter"},
+            {"name": "USB Multimeter"}
           ]
         }
       ],
